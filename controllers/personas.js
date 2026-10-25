@@ -1,0 +1,1 @@
+import personas from '../models/personas.js';
